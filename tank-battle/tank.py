@@ -5,7 +5,7 @@ import random#AI 关键模块
 from pygame.locals import *
 SCREEN_SIZE=[700,500]
 BG_COLOR=[0,0,0]
-FPS=30
+FPS=45
 
 class Base(pygame.sprite.Sprite):
     def __init__(self):
