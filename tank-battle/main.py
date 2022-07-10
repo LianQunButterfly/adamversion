@@ -4,7 +4,7 @@ pygame.init()
 tank = pygame.display.set_mode((640,560))
 pygame.display.set_caption('坦克大战')
 clock = pygame.time.Clock()
-start=pygame.image.load(r"./s1.png")#按钮图片
+start=pygame.image.load("s1.png")#按钮图片
 def getTxt():
     front = pygame.font.SysFont("kaiti", 64)
     inf1 = "梦蝶酱!女装！"
