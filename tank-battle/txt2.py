@@ -13,4 +13,5 @@ for i in a:
         space=space+1
     else :
         other=other+1
-print(f'字符 {enl}，数字{nub}，空格{space}, 其他{other}')
+print(f'字符 {enl}，数字{nub}，空格{space}, 其他{other}')、
+##########adsw
